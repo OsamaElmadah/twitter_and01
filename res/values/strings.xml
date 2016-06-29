@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings used in app ui-->
+    <string name="app_name">Twitter_Android01</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello, </string>
+    <string name="login_instructions">Login to twiter</string>
+    <string name="share_instructions">Enter share message</string>
+    <string name="btn_login">Login to Twitter</string>
+    <string name="btn_share">Show Followers</string>
+
+    <!-- Twitter Configurations -->
+    <string name="twitter_callback">http://javatechig.android.app</string>
+    <string name="twitter_consumer_key">zbWBtiA35oGeWNSLO0tp7cwVF</string>
+    <string name="twitter_consumer_secret">ExfVmZGDPDYsRFlvYdN7sBT3dVvrbks5ZNI95SpcAQN2tUAI7b</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+    <!-- End Configurations -->
+</resources>
